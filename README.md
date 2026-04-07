@@ -1,4 +1,4 @@
-##Learning DOM in JS
+## Learning DOM in JS
 
 Covering the following
 -   ✅ What is DOM
@@ -7,14 +7,14 @@ Covering the following
 -   ✅ Traversing the DOM Hierarchy
 -   ✅ Manipulating the DOM
 -   ✅ Listening to DOM Events
--   ✅ Live Project - Expense Tracker Application
+-   ✅ Project - Expense Tracker Application
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
--   [HTML](https://www.w3schools.com/html/)
--   [CSS](https://www.w3schools.com/css/)
--   [JavaScript](https://www.w3schools.com/js/)
+-   [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+-   [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ---
