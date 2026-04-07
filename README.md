@@ -1,4 +1,4 @@
-###Learning DOM in JS
+##Learning DOM in JS
 
 Covering the following
 -   ✅ What is DOM
